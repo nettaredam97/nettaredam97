@@ -1,4 +1,4 @@
-# 👋 Ciao, sono [Chiara]!  
+# 👋 Ciao, sono Chiara!  
 💻 Appassionata di **automazione, AI e sviluppo low-code**  
 
 <p align="center">
